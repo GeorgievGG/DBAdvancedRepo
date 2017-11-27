@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\03. ShoppingSpree\bin\Debug\_03.ShoppingSpree.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\03. ShoppingSpree\bin\Debug\_03.ShoppingSpree.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\03. ShoppingSpree\bin\Debug\_03.ShoppingSpree.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\03. ShoppingSpree\obj\Debug\03. ShoppingSpree.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\03. ShoppingSpree\obj\Debug\_03.ShoppingSpree.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\03. ShoppingSpree\obj\Debug\_03.ShoppingSpree.pdb

@@ -1,0 +1,10 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\bin\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\bin\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\bin\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\obj\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\obj\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\obj\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\bin\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\bin\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\obj\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\09. IncreaseAgeStoredProc\obj\Debug\netcoreapp1.1\09. IncreaseAgeStoredProc.pdb

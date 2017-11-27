@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\02. Defining Classes Excercise\02. SpeedRacing\obj\Debug\02. SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\02. Defining Classes Excercise\02. SpeedRacing\bin\Debug\_02.SpeedRacing.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\02. Defining Classes Excercise\02. SpeedRacing\bin\Debug\_02.SpeedRacing.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\02. Defining Classes Excercise\02. SpeedRacing\bin\Debug\_02.SpeedRacing.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\02. Defining Classes Excercise\02. SpeedRacing\obj\Debug\_02.SpeedRacing.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\02. Defining Classes Excercise\02. SpeedRacing\obj\Debug\_02.SpeedRacing.pdb

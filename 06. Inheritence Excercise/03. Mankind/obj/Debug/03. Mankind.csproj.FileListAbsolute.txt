@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\03. Mankind\bin\Debug\_03.Mankind.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\03. Mankind\bin\Debug\_03.Mankind.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\03. Mankind\bin\Debug\_03.Mankind.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\03. Mankind\obj\Debug\03. Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\03. Mankind\obj\Debug\_03.Mankind.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\03. Mankind\obj\Debug\_03.Mankind.pdb

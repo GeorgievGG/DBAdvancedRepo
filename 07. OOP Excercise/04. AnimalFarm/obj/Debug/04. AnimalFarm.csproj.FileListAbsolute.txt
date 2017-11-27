@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\04. AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\04. AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\04. AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\04. AnimalFarm\obj\Debug\04. AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\04. AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\04. AnimalFarm\obj\Debug\AnimalFarm.pdb

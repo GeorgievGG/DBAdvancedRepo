@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\02. DateModifier\bin\Debug\_02.DateModifier.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\02. DateModifier\bin\Debug\_02.DateModifier.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\02. DateModifier\bin\Debug\_02.DateModifier.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\02. DateModifier\obj\Debug\02. DateModifier.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\02. DateModifier\obj\Debug\_02.DateModifier.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\02. DateModifier\obj\Debug\_02.DateModifier.pdb

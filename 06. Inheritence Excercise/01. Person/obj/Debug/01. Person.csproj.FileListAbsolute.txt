@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\01. Person\bin\Debug\_01.Person.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\01. Person\bin\Debug\_01.Person.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\01. Person\bin\Debug\_01.Person.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\01. Person\obj\Debug\01. Person.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\01. Person\obj\Debug\_01.Person.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\06. Inheritence Excercise\01. Person\obj\Debug\_01.Person.pdb

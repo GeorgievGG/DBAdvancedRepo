@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\04. Pizza Calories\bin\Debug\_04.Pizza_Calories.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\04. Pizza Calories\obj\Debug\04. Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\04. Pizza Calories\obj\Debug\_04.Pizza_Calories.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\04. Pizza Calories\obj\Debug\_04.Pizza_Calories.pdb

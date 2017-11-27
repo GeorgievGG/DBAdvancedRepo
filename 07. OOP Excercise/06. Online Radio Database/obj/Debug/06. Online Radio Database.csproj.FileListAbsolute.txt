@@ -1,0 +1,3 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\06. Online Radio Database\bin\Debug\_04.Online_Radio_Database.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\06. Online Radio Database\obj\Debug\_04.Online_Radio_Database.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\07. OOP Excercise\06. Online Radio Database\obj\Debug\_04.Online_Radio_Database.pdb

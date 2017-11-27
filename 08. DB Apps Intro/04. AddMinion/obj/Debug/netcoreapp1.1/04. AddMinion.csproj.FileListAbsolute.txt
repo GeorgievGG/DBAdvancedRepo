@@ -1,0 +1,10 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\bin\Debug\netcoreapp1.1\04. AddMinion.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\bin\Debug\netcoreapp1.1\04. AddMinion.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\bin\Debug\netcoreapp1.1\04. AddMinion.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\bin\Debug\netcoreapp1.1\04. AddMinion.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\obj\Debug\netcoreapp1.1\04. AddMinion.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\obj\Debug\netcoreapp1.1\04. AddMinion.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\obj\Debug\netcoreapp1.1\04. AddMinion.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\bin\Debug\netcoreapp1.1\04. AddMinion.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\obj\Debug\netcoreapp1.1\04. AddMinion.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\08. DB Apps Intro\04. AddMinion\obj\Debug\netcoreapp1.1\04. AddMinion.pdb

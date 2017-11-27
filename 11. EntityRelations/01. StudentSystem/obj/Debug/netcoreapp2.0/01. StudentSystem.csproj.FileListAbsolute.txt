@@ -1,0 +1,11 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\bin\Debug\netcoreapp2.0\01. StudentSystem.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\bin\Debug\netcoreapp2.0\01. StudentSystem.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\bin\Debug\netcoreapp2.0\01. StudentSystem.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\bin\Debug\netcoreapp2.0\01. StudentSystem.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\obj\Debug\netcoreapp2.0\01. StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\obj\Debug\netcoreapp2.0\01. StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\obj\Debug\netcoreapp2.0\01. StudentSystem.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\obj\Debug\netcoreapp2.0\01. StudentSystem.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\bin\Debug\netcoreapp2.0\01. StudentSystem.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\obj\Debug\netcoreapp2.0\01. StudentSystem.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\11. EntityRelations\01. StudentSystem\obj\Debug\netcoreapp2.0\01. StudentSystem.pdb

@@ -1,0 +1,15 @@
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.deps.json
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.json
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.runtimeconfig.dev.json
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfoInputs.cache
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.AssemblyInfo.cs
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.dll
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.App.pdb
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.dll
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.dll
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.pdb
+C:\Users\Triple G\source\repos\12. Advanced Relations\01. BillsPaymentSystem\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Models.pdb

@@ -1,0 +1,11 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\bin\Debug\netcoreapp2.0\01. HospitalDB.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\bin\Debug\netcoreapp2.0\01. HospitalDB.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\bin\Debug\netcoreapp2.0\01. HospitalDB.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\bin\Debug\netcoreapp2.0\01. HospitalDB.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\obj\Debug\netcoreapp2.0\01. HospitalDB.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\obj\Debug\netcoreapp2.0\01. HospitalDB.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\obj\Debug\netcoreapp2.0\01. HospitalDB.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\obj\Debug\netcoreapp2.0\01. HospitalDB.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\bin\Debug\netcoreapp2.0\01. HospitalDB.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\obj\Debug\netcoreapp2.0\01. HospitalDB.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\01. HospitalDB\obj\Debug\netcoreapp2.0\01. HospitalDB.pdb

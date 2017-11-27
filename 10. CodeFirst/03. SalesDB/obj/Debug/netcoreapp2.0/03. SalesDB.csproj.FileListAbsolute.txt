@@ -1,0 +1,11 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\bin\Debug\netcoreapp2.0\03. SalesDB.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\bin\Debug\netcoreapp2.0\03. SalesDB.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\bin\Debug\netcoreapp2.0\03. SalesDB.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\bin\Debug\netcoreapp2.0\03. SalesDB.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\obj\Debug\netcoreapp2.0\03. SalesDB.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\obj\Debug\netcoreapp2.0\03. SalesDB.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\obj\Debug\netcoreapp2.0\03. SalesDB.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\obj\Debug\netcoreapp2.0\03. SalesDB.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\bin\Debug\netcoreapp2.0\03. SalesDB.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\obj\Debug\netcoreapp2.0\03. SalesDB.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\10. CodeFirst\03. SalesDB\obj\Debug\netcoreapp2.0\03. SalesDB.pdb

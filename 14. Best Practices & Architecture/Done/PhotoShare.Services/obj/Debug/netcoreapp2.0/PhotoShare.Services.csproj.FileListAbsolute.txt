@@ -1,0 +1,4 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare.Services\obj\Debug\netcoreapp2.0\PhotoShare.Services.csprojResolveAssemblyReference.cache

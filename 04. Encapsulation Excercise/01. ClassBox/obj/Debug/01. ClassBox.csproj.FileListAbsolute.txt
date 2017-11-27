@@ -1,0 +1,6 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\01. ClassBox\bin\Debug\_01.ClassBox.exe.config
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\01. ClassBox\bin\Debug\_01.ClassBox.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\01. ClassBox\bin\Debug\_01.ClassBox.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\01. ClassBox\obj\Debug\01. ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\01. ClassBox\obj\Debug\_01.ClassBox.exe
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\04. Encapsulation Excercise\01. ClassBox\obj\Debug\_01.ClassBox.pdb

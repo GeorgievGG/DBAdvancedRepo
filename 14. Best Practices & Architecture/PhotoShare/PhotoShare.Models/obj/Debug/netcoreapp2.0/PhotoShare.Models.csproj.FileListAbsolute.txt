@@ -1,0 +1,9 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\14. Best Practices & Architecture\PhotoShare\PhotoShare.Models\obj\Debug\netcoreapp2.0\PhotoShare.Models.pdb
