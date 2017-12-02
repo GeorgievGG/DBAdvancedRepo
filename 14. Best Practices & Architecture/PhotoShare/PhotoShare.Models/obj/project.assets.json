@@ -3340,11 +3340,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj",
       "projectName": "PhotoShare.Models",
-      "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj",
+      "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj",
       "packagesPath": "C:\\Users\\Triple G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\obj\\",
+      "outputPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

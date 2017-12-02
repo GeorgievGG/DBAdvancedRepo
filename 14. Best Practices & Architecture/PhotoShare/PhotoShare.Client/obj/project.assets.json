@@ -3397,11 +3397,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Client\\PhotoShare.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Client\\PhotoShare.Client.csproj",
       "projectName": "PhotoShare.Client",
-      "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Client\\PhotoShare.Client.csproj",
+      "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Client\\PhotoShare.Client.csproj",
       "packagesPath": "C:\\Users\\Triple G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Client\\obj\\",
+      "outputPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3420,11 +3420,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj": {
-              "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj"
+            "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj": {
+              "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Models\\PhotoShare.Models.csproj"
             },
-            "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Services\\PhotoShare.Services.csproj": {
-              "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Services\\PhotoShare.Services.csproj"
+            "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Services\\PhotoShare.Services.csproj": {
+              "projectPath": "C:\\Users\\Triple G\\Desktop\\Business\\Softuni\\4.2. C# DB Advanced\\DBAdvancedRepo\\14. Best Practices & Architecture\\PhotoShare\\PhotoShare.Services\\PhotoShare.Services.csproj"
             }
           }
         }
