@@ -1,0 +1,13 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Services.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Services.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Services.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\obj\Debug\netcoreapp2.0\ProductShop.Services.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\obj\Debug\netcoreapp2.0\ProductShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\obj\Debug\netcoreapp2.0\ProductShop.Services.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\obj\Debug\netcoreapp2.0\ProductShop.Services.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\obj\Debug\netcoreapp2.0\ProductShop.Services.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\obj\Debug\netcoreapp2.0\ProductShop.Services.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Data.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Models.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Data.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\16. External Format Processing\ProductShop.Services\bin\Debug\netcoreapp2.0\ProductShop.Models.pdb
