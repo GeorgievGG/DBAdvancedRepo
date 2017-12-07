@@ -1,0 +1,17 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\DBAdvancedRepo\17. Exam Prep I\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.pdb

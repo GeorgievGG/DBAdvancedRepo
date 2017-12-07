@@ -1,0 +1,17 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\00. BookShop.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\00. BookShop.runtimeconfig.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\00. BookShop.runtimeconfig.dev.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\00. BookShop.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\00. BookShop.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\obj\Debug\netcoreapp2.0\00. BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\obj\Debug\netcoreapp2.0\00. BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\obj\Debug\netcoreapp2.0\00. BookShop.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\obj\Debug\netcoreapp2.0\00. BookShop.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\obj\Debug\netcoreapp2.0\00. BookShop.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\00. BookShop\obj\Debug\netcoreapp2.0\00. BookShop.pdb

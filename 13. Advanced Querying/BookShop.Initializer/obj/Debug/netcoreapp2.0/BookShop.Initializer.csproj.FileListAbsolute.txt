@@ -1,0 +1,13 @@
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojResolveAssemblyReference.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Triple G\Desktop\Business\Softuni\4.2. C# DB Advanced\13. Advanced Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb
