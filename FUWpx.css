@@ -40,11 +40,6 @@ z-index: 2;
 .header-left a img {
   margin: 15px 0;
 }
-.header-right {
-  float: right;
-  width: 715px;
-  text-align: right;
-}
 .menu-box {
  background-image: url("https://i.imgur.com/hjo9CIS.png");
  background-position: left center;
@@ -500,10 +495,6 @@ input:checked + label {
 .header-left img {
 	width: 100%;
 }
-.header-right {
-	width: 100%;
-	text-align: center;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -710,10 +701,6 @@ background-color: #e82727;
 .header-left img {
 	width: 100%;
 }
-.header-right {
-	width: 100%;
-	text-align: center;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -911,11 +898,6 @@ color:#999999;
 .header-left img {
 	width: 100%;
 }
-.header-right {
-	width: 50%;
-	text-align: right;
-	margin-top: 14%;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -1109,11 +1091,6 @@ color:#999999;
 .header-left img {
 	width: 100%;
 }
-.header-right {
-	width: 50%;
-	text-align: right;
-	margin-top: 14%;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -1304,11 +1281,6 @@ color:#999999;
 .header-left img {
 	width: 100%;
 }
-.header-right {
-	width: 50%;
-	text-align: right;
-	margin-top: 14%;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -1424,9 +1396,6 @@ color:#999999;
 .menu-box {
 	width: 68%;
 	top: 94px;
-}
-.header-right {
-	width: 550px;
 }
 .header-left a img {
     margin: 30px 0 15px; 
