@@ -105,33 +105,6 @@ z-index: 2;
   float: right;
   width: 822px;
 }
-.item-box {
-  float: left;
-  margin-left: 30px;
-  margin-top: 30px;
-  border: 1px solid #c2c2c2;
-  background-color: #f2f2f2;
-  width: 230px;
-}
-.item-img {
-  border-bottom: 1px solid #c2c2c2;
-  background-color: #fff;
-  height: 220px;
-}
-.item-img > img {
-  max-width: 100%;
-}
-.item-text {
-  cursor: pointer;
-  padding: 25px 20px;
-}
-.item-text:hover {
-  color: #6c6c6c;
-}
-.item-text > p {
-  font-family: 'Quicksand', sans-serif;
-  font-size: 18px;
-}
 .buy {
   color: #fff;
   font-size: 16px;
