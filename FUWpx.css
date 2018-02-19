@@ -94,14 +94,6 @@ z-index: 2;
   font-family: 'Quicksand', sans-serif;
   cursor: pointer;
 }
-.prc {
-  color: #fff;
-  float: right;
-  font-size: 18px;
-  font-family: 'Quicksand', sans-serif;
-  font-weight:600;
-  margin-top:-5px;
-}
 .footer-content {
   background-image: url("https://i.imgur.com/0XrJkHA.jpg");
   background-repeat: no-repeat;
@@ -264,36 +256,6 @@ padding-bottom: 26px;
   margin-top: 30px;
   width: 100%;
 }
-.tablist {
-  height: 48px;
-  height: 48px;
-}
-.tablist-style::after {
-content: "";
-display: inline-block;
-text-align: justify;
-width: 100%;
-}
-.tablist-style {
-  text-align: justify !important;
-}
-.tablist-style {
-  padding: 0 10px;
-}
-.tablist-style > li {
-  background-color: #007385;
-  color: #fff;
-  font-size: 18px;
-  width: 12.4%;
-}
-
-.tablist-style > li {
-border-right: 1px solid #E5E7E6;
-float: left;
-list-style-type: none;
-padding: 12px 39px;
-text-align: center;
-}
 .tabscontent-area.pdablock {
   background-color: #fff;
   border-top: 2px solid #e82727;
@@ -311,21 +273,11 @@ text-align: center;
   padding-bottom: 7px;
   text-transform: uppercase;
 }
-.tablist-style > li:hover {
-  background-color: #e82727;
-  cursor: pointer;
-  width: 12.4%;
-}
 .tab-content {
   color: #555;
   font-size: 16px;
   letter-spacing: 0.8px;
   line-height: 24px;
-}
-.tablist-style > li:hover {
-  background-color: #e82727;
-  cursor: pointer;
-  width: 12.4%;
 }
 .active-tab {
   background-color: #e82727 !important;
@@ -340,9 +292,6 @@ letter-spacing: 0.6px;
 padding: 14px 0 14px 29px;
 text-align: justify;
 }
-.tablist-style > li:last-child {
-  border-right: 0 none;
-}
 .icon {
 	display: none;
 }
@@ -354,12 +303,6 @@ text-align: justify;
 }
 
 @media only screen and (min-width:1500px) and (max-width:3600px)  {
-.tablist-style > li {
-  float: left;
-  list-style-type: none;
-  padding: 12px 38px !important;
-  text-align: center;
-}
 }
 .pro-features .pro-features-text {font-family: 'Quicksand', sans-serif !important; font-size: 18px!important;}
 .pro-features > ul, .pro-features > ul li, .pro-features > ul li span  {font-family: 'Quicksand', sans-serif !important; font-size: 18px!important;text-align: left!important;}
@@ -620,18 +563,6 @@ background-color: #e82727;
 	font-size: 11px;
 	letter-spacing: -0.4px;
 }
-.tablist-style > li {
-	padding: 12px 0px;
-	width: 100%;
-}
-.tablist-style > li:hover {
-	background-color: #e82727;
-	cursor: pointer;
-	width: 100%;
-}
-.tablist-style {
-	padding: 0;
-}
 .footer-menu a {
 	padding: 6px 10px;
 }
@@ -813,18 +744,6 @@ color:#999999;
 	margin-top: 15px;
 	text-align: center;
 }
-.tablist-style > li {
-	padding: 12px 0px;
-	width: 100%;
-}
-.tablist-style > li:hover {
-	background-color: #e82727;
-	cursor: pointer;
-	width: 100%;
-}
-.tablist-style {
-	padding: 0;
-}
 .footer-menu a {
 	padding: 6px 10px;
 }
@@ -1004,18 +923,6 @@ color:#999999;
 	font-size: 13px;
 	letter-spacing: 0px;
 }
-.tablist-style > li {
-	padding: 12px 0px;
-	width: 100%;
-}
-.tablist-style > li:hover {
-	background-color: #e82727;
-	cursor: pointer;
-	width: 100%;
-}
-.tablist-style {
-	padding: 0;
-}
 .footer-menu a {
 	padding: 6px 6px;
 }
@@ -1192,18 +1099,6 @@ color:#999999;
 	font-size: 17px;
 	letter-spacing: 0px;
 }
-.tablist-style > li {
-	padding: 12px 0px;
-	width: 100%;
-}
-.tablist-style > li:hover {
-	background-color: #e82727;
-	cursor: pointer;
-	width: 100%;
-}
-.tablist-style {
-	padding: 0;
-}
 .footer-menu a {
 	padding: 10px 13px;
 }
@@ -1306,15 +1201,6 @@ color:#999999;
 	font-size: 17px;
 	letter-spacing: 0px;
 }
-.tablist-style > li {
-	padding: 12px 3px;
-	width: 19%;
-}
-.tablist-style > li:hover {
-	background-color: #e82727;
-	cursor: pointer;
-	width: 19%;
-}
 
 .footer-menu a {
 	padding: 10px 13px;
@@ -1365,10 +1251,6 @@ color:#999999;
 }
 .sub-img {
 	width: 31.6%;
-}
-.tablist-style > li {
-
-	padding: 12px 35px;
 }
 .menu-box ul {
 	padding-right: 15px;
