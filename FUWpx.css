@@ -45,10 +45,6 @@ z-index: 2;
   width: 715px;
   text-align: right;
 }
-.search-box {
-  margin: 30px 0;
-  width: 100%;
-}
 .menu-box {
  background-image: url("https://i.imgur.com/hjo9CIS.png");
  background-position: left center;
@@ -419,7 +415,6 @@ text-align: justify;
 .header-phone a {color: #fff;    text-decoration: none;}
 .header-phone img {display: inline;margin: 0 5px;max-width: 26px;margin-bottom: -6px;}
 
-/*tabs */
 main.temp-tabs-section {
   padding: 20px;
   margin: 0 auto;
@@ -508,13 +503,6 @@ input:checked + label {
 .header-right {
 	width: 100%;
 	text-align: center;
-}
-.search-box {
-	/* margin: 30px 0; */
-	width: 75%;
-	padding-bottom: 30px;
-	position: relative;
-	margin: auto;
 }
 .menu {
   margin-top: 20px;
@@ -655,7 +643,6 @@ background-color: #e82727;
 }
 .sub-img {
 	float: right;
-	/* margin-left: 25px; */
 	margin-right: 0;
 	width: 100%;
 	margin-top: 15px;
@@ -726,13 +713,6 @@ background-color: #e82727;
 .header-right {
 	width: 100%;
 	text-align: center;
-}
-.search-box {
-	/* margin: 30px 0; */
-	width: 75%;
-	padding-bottom: 30px;
-	position: relative;
-	margin: auto;
 }
 .menu {
   margin-top: 20px;
@@ -818,9 +798,7 @@ color:#999999;
   position: relative;
   width: 69%;
 }
-
-
-/****************************end menu***************/
+	
 .menu-box {
   margin: auto;
   width: 100%;
@@ -872,7 +850,6 @@ color:#999999;
 }
 .sub-img {
 	float: right;
-	/* margin-left: 25px; */
 	margin-right: 0;
 	width: 100%;
 	margin-top: 15px;
@@ -939,11 +916,6 @@ color:#999999;
 	text-align: right;
 	margin-top: 14%;
 }
-.search-box {
-	width: 100%;
-	position: relative;
-	margin: auto;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -1029,10 +1001,8 @@ color:#999999;
   overflow: hidden;
   position: relative;
   width: 71%;
-  
-  
 }
-/****************************end menu***************/
+	
 .menu-box {
   margin: auto;
   width: 100%;
@@ -1078,7 +1048,6 @@ color:#999999;
 }
 .sub-img {
 	float: right;
-	/* margin-left: 25px; */
 	margin-right: 0;
 	width: 100%;
 	margin-top: 15px;
@@ -1145,12 +1114,6 @@ color:#999999;
 	text-align: right;
 	margin-top: 14%;
 }
-.search-box {
-	/* margin: 30px 0; */
-	width: 100%;
-	position: relative;
-	margin: auto;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -1281,7 +1244,6 @@ color:#999999;
 }
 .sub-img {
 	float: right;
-	/* margin-left: 25px; */
 	margin-right: 0;
 	width: 100%;
 	margin-top: 15px;
@@ -1347,12 +1309,6 @@ color:#999999;
 	text-align: right;
 	margin-top: 14%;
 }
-.search-box {
-	/* margin: 30px 0; */
-	width: 100%;
-	position: relative;
-	margin: auto;
-}
 .menu {
   margin-top: 20px;
   background-color:#222222;
@@ -1410,7 +1366,6 @@ color:#999999;
 }
 .sub-img {
 	float: right;
-	/* margin-left: 25px; */
 	margin-right: 0;
 	width: 100%;
 	margin-top: 15px;
