@@ -88,14 +88,6 @@ z-index: 2;
 .banner-box {
   margin: 30px 0;
 }
-.left-content {
-  float: left;
-  width: 230px;
-}
-.right-content {
-  float: right;
-  width: 822px;
-}
 .buy {
   color: #fff;
   font-size: 16px;
@@ -214,21 +206,6 @@ width: 100%;
     border-radius: 3px;
     margin: 0 auto;
     width: 100%;
-}
-.txt-tital1{
-background-color: #e82727;
-height: 48px;
-margin-bottom: -3px;
-margin-top: 30px;
-}
-.txt-tital1>p {
-color: #fff;
-font-family: 'Quicksand', sans-serif;
-font-size: 18px;
-font-weight: 500;
-letter-spacing: 0.7px;
-margin-left: 8px;
-padding: 12px;
 }
 #main-section,
 .satisfaction {
@@ -643,12 +620,6 @@ background-color: #e82727;
 	font-size: 11px;
 	letter-spacing: -0.4px;
 }
-.txt-tital1 {
-	height: 45px;
-}
-.txt-tital1 > p {
-	font-size: 11px;
-}
 .tablist-style > li {
 	padding: 12px 0px;
 	width: 100%;
@@ -842,12 +813,6 @@ color:#999999;
 	margin-top: 15px;
 	text-align: center;
 }
-.txt-tital1 {
-	height: 40px;
-}
-.txt-tital1 > p {
-	font-size: 11px;
-}
 .tablist-style > li {
 	padding: 12px 0px;
 	width: 100%;
@@ -1034,9 +999,6 @@ color:#999999;
 	width: 100%;
 	margin-top: 15px;
 	text-align: center;
-}
-.txt-tital1 {
-	height: 40px;
 }
 .txt-tital p {
 	font-size: 13px;
@@ -1226,9 +1188,6 @@ color:#999999;
 	margin-top: 15px;
 	text-align: center;
 }
-.txt-tital1 {
-	height: 50px;
-}
 .txt-tital p {
 	font-size: 17px;
 	letter-spacing: 0px;
@@ -1342,9 +1301,6 @@ color:#999999;
 	width: 100%;
 	margin-top: 15px;
 	text-align: center;
-}
-.txt-tital1 {
-	height: 50px;
 }
 .txt-tital p {
 	font-size: 17px;
